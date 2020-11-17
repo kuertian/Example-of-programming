@@ -84,3 +84,6 @@ Echo041
 
 Echo042 
 实例042 将古诗分行输出--System.Char类型
+
+Echo043 
+实例043 判断古诗默写是否正确--Equals方法
