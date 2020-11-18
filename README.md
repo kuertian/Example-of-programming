@@ -118,3 +118,7 @@ Echo052
 
 Echo053 
 实例053 提取古诗中含有“明月”的诗句--Contains方法
+与Contains方法用法相近的还有两个方法 StartsWith和EndsWith，其中StartsWith用于判断字符串是否以指定字符串开头，而EndsWith方法用于判断字符串是否以指定字符串结尾。
+
+Echo054 
+实例054 对古诗进行Base64编码--Base64编码
